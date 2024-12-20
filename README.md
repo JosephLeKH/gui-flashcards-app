@@ -13,10 +13,10 @@ This is a simple flashcards application built with Python using the `Tkinter` li
 
 ## Screenshots
 ### Front Card:
-![Front Card](images/screenshot_main.png)
+![Front Card](appScreenshots/flash_card_french_SC.png)
 
 ### Back Card:
-![Back Card](images/screenshot_main.png)
+![Back Card](appScreenshots/flash_card_english_SC.png)
 
 
 ---
